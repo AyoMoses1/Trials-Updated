@@ -1,0 +1,19 @@
+.header{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
+#img-div{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+#tribute-info{
+   text-align: center;
+}
+#image{
+   max-width: 80%;
+   max-height: 60vh;
+}
